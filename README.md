@@ -1,2 +1,2 @@
 # CPP-Projects
-Projects built with C++
+This repository contains source codes for the C++ projects I've built.
