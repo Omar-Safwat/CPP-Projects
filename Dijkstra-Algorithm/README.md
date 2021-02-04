@@ -1,0 +1,2 @@
+# Code description
+The code Implements Dijkstra's shortest path algorithm on randomly generated undirected graphs as practice. The algorithm utilizes a custom-built Priority Queue class, and the graph is represented with an array of Adjacency lists. The graph's density factor was preset in the code to 40%. The C++ random library was used to calculate the probability of existence of an edge between each node, and to pick random distances for each edge.
